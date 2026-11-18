@@ -1,0 +1,28 @@
+style = "blue"
+
+[options]
+indent = 4
+margin = 120
+max_iterations = 10
+normalize_line_endings = "unix"
+
+whitespace_in_kwargs = true
+whitespace_typedefs = true
+join_lines_based_on_source = true
+trailing_comma = true
+
+always_for_in = true
+always_use_return = true
+short_to_long_function_def = true
+long_to_short_function_def = false
+preserve_single_line_blocks = false
+
+format_docstrings = true
+enforce_triplequoted_docstrings = false
+v2_stable_multiline_strings = true
+
+import_to_using = false
+pipe_to_function_call = false
+conditional_to_if = false
+short_circuit_to_if = false
+transform_syntax_in_macros = false

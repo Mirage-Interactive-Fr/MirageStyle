@@ -1,3 +1,4 @@
+# Mirage formatting style. The Julia extension uses Blue as the base preset.
 style = "blue"
 
 [options]
